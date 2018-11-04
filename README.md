@@ -1,3 +1,4 @@
 # Ide-Skripsi
 Membuat ide skripsi
-ide ide ide ideeee
+
+Implementasi perangkat kamera untuk mendeteksi penyakit kulit berbasis android.
